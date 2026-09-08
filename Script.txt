@@ -1,0 +1,61 @@
+Camera, no slide yet
+
+"Hi, I'm Monish. For this assignment I did a hands-on walkthrough of the Nykaa app 
+— searching for specific products, running checkout, and testing a few key features — 
+to see where the experience actually holds up and where it breaks down. Let me walk you through what I found."
+
+[0:20–0:35] — Slide 1: Title
+
+"This is a user experience analysis of Nykaa, based on real tasks I ran on the app myself."
+
+[0:35–1:15] — Slide 2: Methodology + What Worked
+
+"I tested five things specifically: searching for a dry-skin lotion and a damaged-hair shampoo to check search relevance, 
+running the SkinScan feature, walking through checkout and shipping fees, and reviewing the Luxe collection and Nykaa Play. 
+I've also included one case that isn't from my own testing — a refund and return experience reported by my girlfriend — 
+and I've flagged that clearly wherever it comes up, because it's not something I observed first-hand.
+
+One thing that worked well: SkinScan accurately flagged skin concerns I already knew I had. 
+That's a rare case of a diagnostic feature matching reality instead of just pushing products."
+
+[1:15–2:15] — Slide 3: Refund Handling
+
+"The most serious issue I found is refund handling — and this is the secondhand case. 
+My girlfriend tried to return a serum and had to raise the return request six times. 
+Nykaa's support team kept cancelling it as an 'incomplete request' without a clear reason. 
+At one point, an agent said the return was being cancelled because the photo wasn't captured properly — 
+which raises the question of why it was accepted as a valid return in the first place. On top of that, 
+the pickup itself was never scheduled by Nykaa's delivery team, three separate times. 
+The refund only came through after multiple calls to customer care, weeks later. 
+You can see that timeline in the screenshots here — return cancelled, cancelled again, and the refund finally landing weeks after."
+
+[2:15–3:05] — Slide 4: Broken Try-On Promise
+
+"The second critical issue is one I found myself. On a foundation and concealer product page, 
+Nykaa advertises a 'Find Your Perfect Match with Virtual Try-On' banner with a 'Try Now' button. 
+I tapped it — nothing happens. There's no actual try-on feature behind it. This isn't a missing feature, 
+it's a feature Nykaa is actively marketing that doesn't function, on exactly the page where shade-matching matters most for a purchase decision."
+
+[3:05–3:55] — Slide 5: Other Friction Points
+
+"Beyond those two, there's a set of medium and low severity issues. 
+The shipping fee copy says '₹70 for orders below ₹299' — 
+my order came to exactly ₹299 and I was still charged. 
+That's a boundary-case ambiguity in the wording, not necessarily a bug. 
+The Luxe collection feels overpriced for what it delivers, and its design doesn't feel premium. 
+Search relevance drifts — 'dry skin' surfaces 'glowing skin' products, and other searches lose relevance after the first couple of results. 
+And the homepage is visually dense, with banners popping in unpredictably. Nykaa Play also felt like a distraction that didn't reward the time spent."
+
+[3:55–4:35] — Slide 6: Recommendations + Summary
+
+"My two recommendations: first, fix the try-on feature Nykaa is already promising, 
+before building anything new — let users input their current shade and auto-match the closest one. 
+Second, let users filter reviews by skin profile — dry, dusky, sensitive — 
+so the reviews they see are actually relevant to their skin type. 
+Ranking everything by severity: refund handling and the broken try-on promise are high, because they're trust issues. 
+Shipping ambiguity, Luxe pricing, and search relevance are medium. Homepage clutter and Nykaa Play are low."
+
+[4:35–4:50] — Camera, closing
+
+"That's the full breakdown. The core takeaway is that Nykaa's biggest problems aren't cosmetic — 
+they're broken promises around refunds and features that don't work as advertised. Thanks for watching."
